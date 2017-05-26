@@ -1,1 +1,6 @@
-## 一个简单的react配置文件模板
+## 一锟斤拷锟津单碉拷react锟斤拷锟斤拷锟侥硷拷模锟斤拷
+
+## Usage
+    npm install
+    npm run dev
+    localhost:8088
